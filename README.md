@@ -1,16 +1,19 @@
-## Hi there 👋
+### Ciao👋，你好，我是 yuhang
 
-<!--
-**yuhangf2333/yuhangf2333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 天坑专业 😭
+- 努力朝 PM，web3 开发转行中 💪
 
-Here are some ideas to get you started:
+### 正在学习的技术栈 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,rust,solidity,git,docker&perline=14" />
+  </a>
+</p>
+
+### 联系 🔗
+
+<div align="center">
+<a href="mailto:yuhangf2333@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/yuhang-fang-a16560384/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>
