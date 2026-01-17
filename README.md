@@ -1,9 +1,9 @@
 ### Ciao👋，你好，我是 yuhang
 
-- 天坑专业 😭
+
 - 努力朝 PM，web3 开发转行中 💪
 
-### 正在学习的技术栈 💻
+### 想学的技术栈 💻
 
 <p align="center">
   <a href="https://skillicons.dev">
